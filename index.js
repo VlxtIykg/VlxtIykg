@@ -37,8 +37,9 @@ function getQuote() {
   const sbsBadge = `[<img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=${badgeHeight}>](${sbsUrl})`;
 
   const text = `
-	## Quote of the day\n
-	
+	⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆
+	&nbsp;&nbsp;&nbsp;Quote of the day
+
 	${quoteOfToday[0]}
 
 	${quoteOfToday[1]}\n\n
