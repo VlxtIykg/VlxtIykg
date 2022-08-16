@@ -8,7 +8,7 @@ const fs = require("fs");
 
 const feedUrl = "https://www.mokkapps.de/rss.xml";
 const websiteUrl = "https://kami-x.tk";
-const discordUrl = "https://www.twitter.com/mokkapps";
+const discordUrl = "https://discord.com/";
 const sbsUrl = "https://discord.com/invite/sbs";
 const badgeHeight = "25";
 
@@ -33,7 +33,7 @@ function getQuote() {
 (async () => {
   let quoteOfToday = getQuote();
 
-  const discordBadge = `[<img src="https://www.subpng.com/png-h0ittt/" height=${badgeHeight}>](${discordUrl})`;
+  const discordBadge = `[<img src="./discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
   const sbsBadge = `[<img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=${badgeHeight}>](${sbsUrl})`;
 
   const text = `
