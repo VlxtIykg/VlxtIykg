@@ -74,7 +74,7 @@ const bot = `
 	//Favourites
 	const text = `<h2 align="center">About Me</h2>\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>\n`;
 	const favourite = md.render(text);
-  fs.appendFile("README.md", favourite, function (err) {
+  fs.appendFile("README.md", text, function (err) {
 		if (err) return console.log(err);
     console.log(`${favourite} Test 2 passed, favourite list printed.`);
   });
