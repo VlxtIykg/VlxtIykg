@@ -1,10 +1,11 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center">	
-		> Love is when the other person's happiness is more important than your own.
+<div align="center">	```
+		> Ours not to reason why, ours but to do and die
 		﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-		 By H. Jackson Brown, Jr
+		By Alfred Lord Tennyson
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
+		```
 		</div><h2 align="center">About Me</h2>
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>
 [Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>
