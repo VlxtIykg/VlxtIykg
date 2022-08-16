@@ -54,7 +54,7 @@ const bot = `
 
 	//Header
 	const header = `<h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>\n<h2 align="center">Quote of the day</h2>\n<div align="center">`
-	fs.writeFile("README.md", header, function(err) { 
+	fs.writeFileSync("README.md", header, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`${header} Test 1 passed, header printed.`);
 	});
@@ -66,14 +66,14 @@ const bot = `
 		${quoteOfToday[1]}
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 		</div>`;
-	fs.appendFile("README.md", quote, function(err) { 
+	fs.appendFileSyncSync("README.md", quote, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`${header} Test 1.5 passed, quotes printed.`);
 	})
 
 	//Favourites
 	const favourite = `<h2 align="center">About Me</h2>\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>\n`;
-  fs.appendFile("README.md", favourite, function (err) {
+  fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err);
     console.log(`${favourite} Test 2 passed, favourite list printed.`);
   });
@@ -97,7 +97,7 @@ const bot = `
 		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
 		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
 	</details>`;
-	fs.appendFile("README.md", song, function (err) {
+	fs.appendFileSync("README.md", song, function (err) {
     if (err) return console.log(err);
     console.log(`${song} > README.md`);
   });
