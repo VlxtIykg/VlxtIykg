@@ -38,6 +38,7 @@ function getQuote() {
 
   const text = `
 	## Quote of the day\n
+	
 	${quoteOfToday[0]}
 
 	${quoteOfToday[1]}\n\n

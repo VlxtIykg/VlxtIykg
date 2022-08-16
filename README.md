@@ -1,8 +1,9 @@
 <pre><code>## Quote of the day
 
-&gt; Love is when the other person's happiness is more important than your own.
 
- By H. Jackson Brown, Jr
+&gt; I love you, not only for what you are, but for what I am when I am with you.
+
+By Roy Croft
 </code></pre>
 <h2>About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
