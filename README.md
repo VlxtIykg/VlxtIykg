@@ -1,32 +1,19 @@
-### Quote of the day
-<!--
-**VlxtIykg/VlxtIykg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre><code>&gt; Love is when the other person's happiness is more important than your own.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-> We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim.
-
-By R.M. Drake<br><br>
-## About Me<br>
-[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br><br>
-:construction_worker: I’m currently working on a puzzlebot *[Discord bot](https://discord.com/developers/docs/intro#bots-and-apps)* tailored for a specific person!<br>
-:sparkles: The features are create a puzzle, upload answer, check database and restart command.<br>
-:card_file_box: The library for puzzlebot uses [Eris](https://abal.moe/Eris/docs/0.17.1/).<br>
-:memo: There are other discord bot libraries, check them out [here!](https://discord.com/developers/docs/topics/community-resources#libraries) <details><summary>Languages with discord bot api (libraries)</summary>
-```The languages supported for the libraries are C#, Go, Java, JavaScript, Lua, Php, Python, Ruby, Rust```<br></details>
-📞📖 How to reach me: Add me on Discord @ Kami#7715 or join discord.gg/sbs and ping me!<br>
-  💬 Ask me about something on discord, I may answer it!<br>
+ By H. Jackson Brown, Jr
+</code></pre>
+<h2>About Me</h2>
+<p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
+<p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
+<p>✨ The features are create a puzzle, upload answer, check database and restart command.</p>
+<p>🗃️ The library for puzzlebot uses <a href="https://abal.moe/Eris/docs/0.17.1/">Eris</a>.</p>
+<p>📝 There are other discord bot libraries, check them out <a href="https://discord.com/developers/docs/topics/community-resources#libraries">here!</a> <details><summary>Languages with discord bot api (libraries)</summary><br>
+<code>The languages supported for the libraries are C#, Go, Java, JavaScript, Lua, Php, Python, Ruby, Rust</code></p>
+</details>
+📞📖 How to reach me: Add me on Discord @ Kami#7715 or join discord.gg/sbs and ping me!
+<p>💬 Ask me about something on discord, I may answer it!</p>
   <p>:eyes: Fun fact: The first computer virus was created in 1986</p>
   <details><summary>More info</summary>Given the moniker Brain, the virus was created by two brothers, Basit and Amjad Farooq Alvi, in Pakistan. According to the siblings, who ran a popular computer store, they created Brain to stop their customers from making copies of their software without permission.
-
-However, unlike traditional viruses, Brain only contained a hidden copyright message and did not corrupt or delete any of the user’s files or information.</details>
-  
+<p>However, unlike traditional viruses, Brain only contained a hidden copyright message and did not corrupt or delete any of the user’s files or information.</details><br>
+<a href="https://www.twitter.com/mokkapps"><img src="https://www.subpng.com/png-h0ittt/" height=25></a> <a href="https://discord.com/invite/sbs"><img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=25></a></p>
+<p><a href="https://kami-x.tk">➡️ Check out my website</a></p>
