@@ -6,7 +6,6 @@ const md = require("markdown-it")({
 const emoji = require("markdown-it-emoji");
 const fs = require("fs");
 
-const feedUrl = "https://www.mokkapps.de/rss.xml";
 const websiteUrl = "https://kami-x.tk";
 const discordUrl = "https://discord.com/";
 const sbsUrl = "https://discord.com/invite/sbs";
@@ -37,8 +36,6 @@ function getQuote() {
   const sbsBadge = `[<img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=${badgeHeight}>](${sbsUrl})`;
 
   const text = `
-	⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆
-	&nbsp;&nbsp;&nbsp;Quote of the day
 
 	${quoteOfToday[0]}
 
@@ -60,8 +57,12 @@ However, unlike traditional viruses, Brain only contained a hidden copyright mes
   [:arrow_right: Check out my website](${websiteUrl})\n\n`;
 
   const result = md.render(text);
-
-  fs.writeFile("README.md", result, function (err) {
+	const header = `## ⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆\n&nbsp;&nbsp;&nbsp;&nbsp; ## Quote of the day\n`
+	fs.writeFile("README.md", header, function(err) { 
+		if(err) return console.log(err); 
+		console.log(`${header}\n${result}`);
+	})
+  fs.appendFile("README.md", result, function (err) {
     if (err) return console.log(err);
     console.log(`${result} > README.md`);
   });

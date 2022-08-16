@@ -1,9 +1,8 @@
-<pre><code>⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆
-&amp;nbsp;&amp;nbsp;&amp;nbsp;Quote of the day
+## ⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆
+&nbsp;&nbsp;&nbsp;&nbsp; ## Quote of the day
+<pre><code>&gt; I love you, not only for what you are, but for what I am when I am with you.
 
-&gt; Ours not to reason why, ours but to do and die
-
-By Alfred Lord Tennyson
+By Roy Croft
 </code></pre>
 <h2>About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
