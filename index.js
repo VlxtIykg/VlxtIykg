@@ -38,9 +38,9 @@ function getQuote() {
   const text = `
 
 	${quoteOfToday[0]}\n
-	<p align="center">⎯⎯ ୨ ୧ ⎯⎯</p>
+			⎯⎯ ୨ ୧ ⎯⎯
 	${quoteOfToday[1]}\n
-	<p align="center">♡.﹀﹀.♡</p>
+			♡.﹀﹀.♡
 	\n
 </div>
 <h2 align="center">About Me</h2>\n

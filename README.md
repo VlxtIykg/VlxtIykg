@@ -2,10 +2,10 @@
 <h2 align="center">Quote of the day</h2>
 <div align="center"><pre><code>&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
 
-&lt;p align=&quot;center&quot;&gt;⎯⎯ ୨ ୧ ⎯⎯&lt;/p&gt;
+		⎯⎯ ୨ ୧ ⎯⎯
 By Dr. Seuss
 
-&lt;p align=&quot;center&quot;&gt;♡.﹀﹀.♡&lt;/p&gt;
+		♡.﹀﹀.♡
 </code></pre>
 </div>
 <h2 align="center">About Me</h2>
