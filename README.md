@@ -1,13 +1,27 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>&gt; I love you, not only for what you are, but for what I am when I am with you.
+<div align="center"><pre><code>&gt; It is better to die on your feet than to live on your knees.
 ﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Roy Croft
+By Emiliano Zapato
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div>
 <h2 align="center">About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
+<p>[Current] My Favourite programming language: <sub><img src="https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg" alt="JavaScript"> -- JavaScript</sub></p>
+<p>[Current] My Favourite songs: <sub><a href="https://www.youtube.com/watch?v=4fqwVBuunxY">Astrid S - Hurt so Good</a></sub></p>
+<details>
+	<summary>Expand songs</summary>
+	<details><summary><h5>Sad songs</h5></details></summary>
+<pre><code>&lt;details&gt;&lt;summary&gt;&lt;h5&gt;Anime rap&lt;/h5&gt;&lt;/details&gt;&lt;/summary&gt;
+
+[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
+[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
+[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
+[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
+[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
+</code></pre>
+</details>
 <h3 align="center">Bot</h3>
 <p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
 <p>✨ The features are create a puzzle, upload answer, check database and restart command.</p>
