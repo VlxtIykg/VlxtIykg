@@ -8,7 +8,7 @@ By Roy Croft
 </div>
 <h2 align="center">About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
-<h6>Bot</h6>
+<h3 align="center">Bot</h3>
 <p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
 <p>✨ The features are create a puzzle, upload answer, check database and restart command.</p>
 <p>🗃️ The library for puzzlebot uses <a href="https://abal.moe/Eris/docs/0.17.1/">Eris</a>.</p>
