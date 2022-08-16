@@ -44,19 +44,27 @@ function getQuote() {
 </div>
 <h2 align="center">About Me</h2>\n
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n
-[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg) -- JavaScript</sub>\n
+[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>\n
 [Current] My Favourite songs: <sub>[Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)</sub>\n
 <details>
 	<summary>Expand songs</summary>
-	<details><summary><h5>Sad songs</h5></details></summary>\n
-
+	<details>
+		<summary><h5>Sad songs</h5></summary>\n
+		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
+		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
+		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
+		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
+		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
+	</details>
 	
-	<details><summary><h5>Anime rap</h5></details></summary>\n
-	[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
-	[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
-	[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
-	[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
-	[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
+	<details>
+		<summary><h5>Anime rap</h5></summary>\n
+		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
+		[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
+		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
+		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
+		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
+	</details>
 </details>
 <h3 align="center">Bot</h3>
 \n
