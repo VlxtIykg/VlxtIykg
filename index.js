@@ -56,7 +56,7 @@ const bot = `
 	const header = `<h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>\n<h2 align="center">Quote of the day</h2>\n<div align="center">`
 	fs.writeFileSync("README.md", header, function(err) { 
 		if(err) return console.log(err); 
-		console.log(`${header} Test 1 passed, header printed.`);
+		console.log(`Test 1 passed, header printed.`);
 	});
 
 		//Quotes
@@ -65,18 +65,22 @@ const bot = `
 		﹌﹌﹌﹌\\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
 		${quoteOfToday[1]}
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
-		</div>`;
+		`;
 		let quotedMsg = md.render(quote);
 	fs.appendFileSync("README.md", quotedMsg, function(err) { 
 		if(err) return console.log(err); 
-		console.log(`${header} Test 1.5 passed, quotes printed.`);
+		console.log(`Test 2 passed, quotes printed.`);
+		fs.appendFileSync("README.md", "</div>", function(err) { 
+			if(err) return console.log(err); 
+			console.log(`Test 2.5 passed, quotes printed.`)
+		})
 	})
 
 	//Favourites
 	const favourite = `<h2 align="center">About Me</h2>\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
-		if (err) return console.log(err);
-    console.log(`${favourite} Test 2 passed, favourite list printed.`);
+		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
+    console.log(`Test 3 passed, favourite list printed.`);
   });
 
 	//Songs
@@ -100,6 +104,6 @@ const bot = `
 	</details>`;
 	fs.appendFileSync("README.md", song, function (err) {
     if (err) return console.log(err);
-    console.log(`${song} > README.md`);
+    console.log(`Test 4 passed, song list posted`);
   });
 })();
