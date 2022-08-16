@@ -1,10 +1,13 @@
 	
-		> It is better to die on your feet than to live on your knees.
+		> All alone! Whether you like it or not, alone is something you'll be quite a lot!
 		﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-		By Emiliano Zapato
+		By Dr. Seuss
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
-		</div>">Quote of the day</h2>
-<div align="center">[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)
+		</div> day</h2>
+<div align="center"><h2 align="center">About Me</h2>
+[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>
+[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>
+[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)
 	<details>
 		<summary><h5>Sad songs</h5></summary>
 		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
@@ -21,6 +24,4 @@
 		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
 		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
 		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
-	</details><h2 align="center">About Me</h2>
-[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>
-[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>
+	</details>

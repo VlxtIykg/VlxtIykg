@@ -30,7 +30,7 @@ function getQuote() {
 	let randomQuotes = quotes[Math.floor(Math.random() * quotes.length)];
 	return randomQuotes;
 }
-(async () => {
+(() => {
   let quoteOfToday = getQuote();
 
  const discordBadge = `[<img src="./discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
