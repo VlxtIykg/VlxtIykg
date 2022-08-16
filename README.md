@@ -21,8 +21,8 @@
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>
 [Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>
 	
-		> We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim.
+		> Ours not to reason why, ours but to do and die
 		﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-		By R.M. Drake
+		By Alfred Lord Tennyson
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 		</div>
