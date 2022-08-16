@@ -38,7 +38,7 @@ function getQuote() {
   const text = `
 
 	${quoteOfToday[0]}
-	﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯﹌﹌﹌﹌
+	﹌﹌﹌﹌\\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
 	${quoteOfToday[1]}
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </div>
