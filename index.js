@@ -49,7 +49,7 @@ function getQuote() {
 <details>
 	<summary>Expand songs</summary>
 	<details>
-		<summary><h5>Sad songs</h5></summary>\n
+		<summary><h5>Sad songs</h5></summary>
 		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
 		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
 		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
@@ -58,7 +58,7 @@ function getQuote() {
 	</details>
 	
 	<details>
-		<summary><h5>Anime rap</h5></summary>\n
+		<summary><h5>Anime rap</h5></summary>
 		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
 		[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
 		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)

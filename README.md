@@ -14,16 +14,14 @@ By Dr. Seuss
 	<summary>Expand songs</summary>
 	<details>
 		<summary><h5>Sad songs</h5></summary>
-<pre><code>	[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
-	[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
-	[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
-	[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
-	[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
-&lt;/details&gt;
-
-&lt;details&gt;
+		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
+		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
+		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
+		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
+		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
+	</details>
+<pre><code>&lt;details&gt;
 	&lt;summary&gt;&lt;h5&gt;Anime rap&lt;/h5&gt;&lt;/summary&gt;
-
 	[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
 	[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
 	[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
