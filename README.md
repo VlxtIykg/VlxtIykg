@@ -1,4 +1,6 @@
-<pre><code>&gt; Love is when the other person's happiness is more important than your own.
+<pre><code>## Quote of the day
+
+&gt; Love is when the other person's happiness is more important than your own.
 
  By H. Jackson Brown, Jr
 </code></pre>
@@ -15,5 +17,5 @@
   <p>:eyes: Fun fact: The first computer virus was created in 1986</p>
   <details><summary>More info</summary>Given the moniker Brain, the virus was created by two brothers, Basit and Amjad Farooq Alvi, in Pakistan. According to the siblings, who ran a popular computer store, they created Brain to stop their customers from making copies of their software without permission.
 <p>However, unlike traditional viruses, Brain only contained a hidden copyright message and did not corrupt or delete any of the user’s files or information.</details><br>
-<a href="https://www.twitter.com/mokkapps"><img src="https://www.subpng.com/png-h0ittt/" height=25></a> <a href="https://discord.com/invite/sbs"><img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=25></a></p>
+<a href="https://discord.com/"><img src="./discordlogo.png" height=25></a> <a href="https://discord.com/invite/sbs"><img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=25></a></p>
 <p><a href="https://kami-x.tk">➡️ Check out my website</a></p>
