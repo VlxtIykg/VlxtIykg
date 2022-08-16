@@ -10,17 +10,16 @@ By Emiliano Zapato
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
 <p>[Current] My Favourite programming language: <sub><img src="https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg" alt="JavaScript">JavaScript</sub></p>
 <p>[Current] My Favourite songs: <sub><a href="https://www.youtube.com/watch?v=4fqwVBuunxY">Astrid S - Hurt so Good</a></sub></p>
-<details>
-	<summary>Expand songs</summary>
-	<details>
-		<summary><h5>Sad songs</h5></summary>
-		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
-		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
-		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
-		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
-		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
-	</details><br>
 <pre><code>&lt;details&gt;
+	&lt;summary&gt;&lt;h5&gt;Sad songs&lt;/h5&gt;&lt;/summary&gt;
+	[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
+	[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
+	[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
+	[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
+	[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
+&lt;/details&gt;&lt;br&gt;
+
+&lt;details&gt;
 	&lt;summary&gt;&lt;h5&gt;Anime rap&lt;/h5&gt;&lt;/summary&gt;
 	[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
 	[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
@@ -29,7 +28,6 @@ By Emiliano Zapato
 	[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
 &lt;/details&gt;
 </code></pre>
-</details>
 <h3 align="center">Bot</h3>
 <p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
 <p>✨ The features are create a puzzle, upload answer, check database and restart command.</p>

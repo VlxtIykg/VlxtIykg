@@ -46,8 +46,6 @@ function getQuote() {
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n
 [Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>\n
 [Current] My Favourite songs: <sub>[Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)</sub>\n
-<details>
-	<summary>Expand songs</summary>
 	<details>
 		<summary><h5>Sad songs</h5></summary>
 		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
@@ -65,7 +63,6 @@ function getQuote() {
 		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
 		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
 	</details>
-</details>
 <h3 align="center">Bot</h3>
 \n
 :construction_worker: I’m currently working on a puzzlebot *[Discord bot](https://discord.com/developers/docs/intro#bots-and-apps)* tailored for a specific person!\n
