@@ -66,7 +66,7 @@ const bot = `
 		${quoteOfToday[1]}
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 		</div>`;
-	fs.appendFileSyncSync("README.md", quote, function(err) { 
+	fs.appendFileSync("README.md", quote, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`${header} Test 1.5 passed, quotes printed.`);
 	})
