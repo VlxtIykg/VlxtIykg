@@ -40,7 +40,8 @@ function getQuote() {
 	${quoteOfToday[0]}\n
 
 	${quoteOfToday[1]}\n\n
-</div>## About Me\n
+</div>
+<h2 align="center">About Me</h2>\n
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n\n
 :construction_worker: I’m currently working on a puzzlebot *[Discord bot](https://discord.com/developers/docs/intro#bots-and-apps)* tailored for a specific person!\n
 :sparkles: The features are create a puzzle, upload answer, check database and restart command.\n

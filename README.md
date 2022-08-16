@@ -1,11 +1,12 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>&gt; It is better to die on your feet than to live on your knees.
+<div align="center"><pre><code>&gt; I love you, not only for what you are, but for what I am when I am with you.
 
 
-By Emiliano Zapato
+By Roy Croft
 </code></pre>
-</div>## About Me
+</div>
+<h2 align="center">About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
 <p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
 <p>✨ The features are create a puzzle, upload answer, check database and restart command.</p>
