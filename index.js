@@ -66,7 +66,7 @@ const bot = `
 		${quoteOfToday[1]}
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 		</div>`;
-	fs.writeFile("README.md", quote, function(err) { 
+	fs.appendFile("README.md", quote, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`${header} Test 1.5 passed, quotes printed.`);
 	})
