@@ -20,7 +20,7 @@ function getQuote() {
 		["> From the moment we are born, we begin to die","By Janne Teller"],
 		["> I love you, not only for what you are, but for what I am when I am with you.","By Roy Croft"],
 		["> Love is when the other person's happiness is more important than your own."," By H. Jackson Brown, Jr"],
-		["> Life is the flower for which love is the honey","Ny Victor Hugo"],
+		["> Life is the flower for which love is the honey","By Victor Hugo"],
 		["> It is better to die on your feet than to live on your knees.","By Emiliano Zapato"],
 		["> Ours not to reason why, ours but to do and die","By Alfred Lord Tennyson"],
 		["> It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience.","By Julius Caesar"]
@@ -37,10 +37,10 @@ function getQuote() {
 
   const text = `
 
-	${quoteOfToday[0]}
+	${quoteOfToday[0]}\n
 
 	${quoteOfToday[1]}\n\n
-## About Me\n
+</div>## About Me\n
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n\n
 :construction_worker: I’m currently working on a puzzlebot *[Discord bot](https://discord.com/developers/docs/intro#bots-and-apps)* tailored for a specific person!\n
 :sparkles: The features are create a puzzle, upload answer, check database and restart command.\n
@@ -57,7 +57,7 @@ However, unlike traditional viruses, Brain only contained a hidden copyright mes
   [:arrow_right: Check out my website](${websiteUrl})\n\n`;
 
   const result = md.render(text);
-	const header = `## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp;&emsp;&emsp; -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ\n## &emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Quote of the day\n`
+	const header = `<h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>\n<h2 align="center">Quote of the day</h2>\n<div align="center">`
 	fs.writeFile("README.md", header, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`${header}\n${result}`);

@@ -1,10 +1,11 @@
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp;&emsp;&emsp; -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ
-## &emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Quote of the day
-<pre><code>&gt; Life is the flower for which love is the honey
+<h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
+<h2 align="center">Quote of the day</h2>
+<div align="center"><pre><code>&gt; It is better to die on your feet than to live on your knees.
 
-Ny Victor Hugo
+
+By Emiliano Zapato
 </code></pre>
-<h2>About Me</h2>
+</div>## About Me
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
 <p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
 <p>✨ The features are create a puzzle, upload answer, check database and restart command.</p>
