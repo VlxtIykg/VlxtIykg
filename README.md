@@ -1,8 +1,8 @@
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ
-## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Quote of the day
-<pre><code>&gt; Life is the flower for which love is the honey
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Quote of the day
+<pre><code>&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
 
-Ny Victor Hugo
+By Dr. Seuss
 </code></pre>
 <h2>About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
