@@ -1,13 +1,14 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
+<div align="center"><pre><code>&gt; I love you, not only for what you are, but for what I am when I am with you.
 ﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Dr. Seuss
+By Roy Croft
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div>
 <h2 align="center">About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
+<h6>Bot</h6>
 <p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
 <p>✨ The features are create a puzzle, upload answer, check database and restart command.</p>
 <p>🗃️ The library for puzzlebot uses <a href="https://abal.moe/Eris/docs/0.17.1/">Eris</a>.</p>
