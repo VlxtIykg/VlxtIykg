@@ -1,8 +1,8 @@
-## ⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ
 ## &nbsp;&nbsp;&nbsp;&nbsp;Quote of the day
-<pre><code>&gt; Life is the flower for which love is the honey
+<pre><code>&gt; I love you, not only for what you are, but for what I am when I am with you.
 
-Ny Victor Hugo
+By Roy Croft
 </code></pre>
 <h2>About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
