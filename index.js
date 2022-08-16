@@ -38,9 +38,9 @@ function getQuote() {
   const text = `
 
 	${quoteOfToday[0]}
-			⎯⎯ ୨ ୧ ⎯⎯
+	﹌﹌⎯⎯ ୨ ୧ ⎯⎯﹌﹌
 	${quoteOfToday[1]}
-			♡.﹀﹀.♡
+	﹌﹌♡.﹀﹀.♡﹌﹌
 </div>
 <h2 align="center">About Me</h2>\n
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n\n
