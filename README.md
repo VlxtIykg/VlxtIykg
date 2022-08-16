@@ -1,10 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
-
+<div align="center"><pre><code>&gt; Love is when the other person's happiness is more important than your own.
 		⎯⎯ ୨ ୧ ⎯⎯
-By Dr. Seuss
-
+ By H. Jackson Brown, Jr
 		♡.﹀﹀.♡
 </code></pre>
 </div>
