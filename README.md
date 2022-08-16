@@ -19,7 +19,7 @@ By Dr. Seuss
 		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
 		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
 		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
-	</details>
+	</details><br>
 <pre><code>&lt;details&gt;
 	&lt;summary&gt;&lt;h5&gt;Anime rap&lt;/h5&gt;&lt;/summary&gt;
 	[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
