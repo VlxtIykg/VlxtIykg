@@ -1,8 +1,8 @@
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ
-## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Quote of the day
-<pre><code>&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Quote of the day
+<pre><code>&gt; It is better to die on your feet than to live on your knees.
 
-By Dr. Seuss
+By Emiliano Zapato
 </code></pre>
 <h2>About Me</h2>
 <p>[Current] My Favourite emoji: <sub><img src="https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80" alt="FavEmojiHere"></sub></p>
