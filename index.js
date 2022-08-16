@@ -60,13 +60,13 @@ const bot = `
 	});
 
 		//Quotes
-	const quote = `	\`\`\`
+	const quote = `
 		${quoteOfToday[0]}
 		﹌﹌﹌﹌\\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
 		${quoteOfToday[1]}
 		﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
-		\`\`\`
 		</div>`;
+		quote = md.render(quote);
 	fs.appendFileSync("README.md", quote, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`${header} Test 1.5 passed, quotes printed.`);
