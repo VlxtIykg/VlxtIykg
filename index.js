@@ -57,8 +57,8 @@ function getQuote() {
 		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
 	</details><br>
 	
-	<details>
-		<summary><h5>Anime rap</h5></summary>
+\<details\>
+		\<summary\>\<h5\>Anime rap\</h5\>\</summary\>
 		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
 		[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
 		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)

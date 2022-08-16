@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
+<div align="center"><pre><code>&gt; It is better to die on your feet than to live on your knees.
 ﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Dr. Seuss
+By Emiliano Zapato
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div>
@@ -20,15 +20,14 @@ By Dr. Seuss
 		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
 		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
 	</details><br>
-<pre><code>&lt;details&gt;
-	&lt;summary&gt;&lt;h5&gt;Anime rap&lt;/h5&gt;&lt;/summary&gt;
-	[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
-	[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
-	[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
-	[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
-	[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
-&lt;/details&gt;
-</code></pre>
+<details>
+		<summary><h5>Anime rap</h5></summary>
+		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
+		[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
+		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
+		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
+		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
+	</details>
 </details>
 <h3 align="center">Bot</h3>
 <p>👷 I’m currently working on a puzzlebot <em><a href="https://discord.com/developers/docs/intro#bots-and-apps">Discord bot</a></em> tailored for a specific person!</p>
