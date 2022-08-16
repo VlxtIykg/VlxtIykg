@@ -70,10 +70,10 @@ const bot = `
 	fs.appendFileSync("README.md", quotedMsg, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`Test 2 passed, quotes printed.`);
-		fs.appendFileSync("README.md", "</div>", function(err) { 
-			if(err) return console.log(err); 
-			console.log(`Test 2.5 passed, quotes printed.`)
-		})
+	})
+	fs.appendFileSync("README.md", "</div>", function(err) { 
+		if(err) return console.log(err); 
+		console.log(`Test 2.5 passed, quotes printed.`)
 	})
 
 	//Favourites
