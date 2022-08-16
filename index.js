@@ -57,7 +57,7 @@ However, unlike traditional viruses, Brain only contained a hidden copyright mes
   [:arrow_right: Check out my website](${websiteUrl})\n\n`;
 
   const result = md.render(text);
-	const header = `## ⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆\n&nbsp;&nbsp;&nbsp;&nbsp; ## Quote of the day\n`
+	const header = `## ⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆\n## &nbsp;&nbsp;&nbsp;&nbsp;Quote of the day\n`
 	fs.writeFile("README.md", header, function(err) { 
 		if(err) return console.log(err); 
 		console.log(`${header}\n${result}`);
