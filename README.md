@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>&gt; Love is when the other person's happiness is more important than your own.
+<div align="center"><pre><code>&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
 ﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
- By H. Jackson Brown, Jr
+By Dr. Seuss
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div>
@@ -11,21 +11,34 @@
 <p>[Current] My Favourite programming language: <sub><img src="https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg" alt="JavaScript">JavaScript</sub></p>
 <p>[Current] My Favourite songs: <sub><a href="https://www.youtube.com/watch?v=4fqwVBuunxY">Astrid S - Hurt so Good</a></sub></p>
 <pre><code>&lt;details&gt;
+
 	&lt;summary&gt;&lt;h5&gt;Sad songs&lt;/h5&gt;&lt;/summary&gt;
+
 	[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
+
 	[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
+
 	[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
+
 	[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
+
 	[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
-&lt;/details&gt;&lt;br&gt;
+
+&lt;/details&gt;
 
 &lt;details&gt;
 	&lt;summary&gt;&lt;h5&gt;Anime rap&lt;/h5&gt;&lt;/summary&gt;
+
 	[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)
+
 	[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)
+
 	[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)
+
 	[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)
+
 	[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)
+
 &lt;/details&gt;
 </code></pre>
 <h3 align="center">Bot</h3>
