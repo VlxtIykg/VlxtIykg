@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; Ours not to reason why, ours but to do and die
+<div align="center"><pre><code>	&gt; From the moment we are born, we begin to die
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	By Alfred Lord Tennyson
+	By Janne Teller
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
@@ -22,10 +22,10 @@
 	<br>
 	<details>
 		&emsp;<summary><h5>Anime rap</h5></summary>
-		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
-		[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
-		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
-		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
-		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
+		&emsp;[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
+		&emsp;[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
+		&emsp;[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
+		&emsp;[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
+		&emsp;[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
 	</details>
 	</details>

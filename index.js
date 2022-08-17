@@ -80,11 +80,11 @@ function getQuote() {
 	<br>
 	<details>
 		&emsp;<summary><h5>Anime rap</h5></summary>
-		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
-		[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
-		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
-		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
-		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
+		&emsp;[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
+		&emsp;[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
+		&emsp;[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
+		&emsp;[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
+		&emsp;[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
 	</details>
 	</details>`;
 	fs.appendFileSync("README.md", song, function (err) {
