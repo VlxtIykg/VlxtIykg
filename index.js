@@ -75,9 +75,8 @@ function getQuote() {
 		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)<br>
 		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)<br>
 		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)<br>
-
-	</details><br>
-	
+	</details>
+	<br>
 	<details>
 		<summary><h5>Anime rap</h5></summary>
 		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>

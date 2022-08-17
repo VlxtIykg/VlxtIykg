@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot!
+<div align="center"><pre><code>	&gt; It is better to die on your feet than to live on your knees.
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	By Dr. Seuss
+	By Emiliano Zapato
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
@@ -17,9 +17,8 @@
 		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)<br>
 		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)<br>
 		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)<br>
-
-	</details><br>
-	
+	</details>
+	<br>
 	<details>
 		<summary><h5>Anime rap</h5></summary>
 		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
