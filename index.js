@@ -1,6 +1,5 @@
 const md = require("markdown-it")({
   html: true, // Enable HTML tags in source
-	xhtmlOut: true, // Use '/' to close single tags (<br />).
   breaks: true, // Convert '\n' in paragraphs into \n
   linkify: true, // Autoconvert URL-like text to links
 });
@@ -61,7 +60,7 @@ function getQuote() {
 	})
 
 	//Favourites
-	const favourite = `<h2 align="center">About Me</h2>\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg)JavaScript</sub>\n`;
+	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg) JavaScript</sub>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
     console.log(`Test 3 passed, favourite list printed.`);
@@ -71,12 +70,12 @@ function getQuote() {
 	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)
 	<details>
 		<summary><h5>Sad songs</h5></summary>
-		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)
-		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)
-		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
-		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)
-		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
-	</details>
+		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)\n
+		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)\n
+		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)\n
+		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)\n
+		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)\n
+	</details><br>
 	
 	<details>
 		<summary><h5>Anime rap</h5></summary>
