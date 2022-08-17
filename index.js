@@ -26,8 +26,7 @@ function getQuote() {
 		["> It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. <","By Julius Caesar"]
 		["> If you prick us do we not bleed? If you tickle us do we not laugh? If you poison us do we not die? And if you wrong us shall we not revenge? < ","By William Shakespeare"]
 	]
-	let randomQuotes = quotes[Math.floor(Math.random() * quotes.length-1)];
-	return randomQuotes;
+	return randomQuotes = quotes[Math.floor(Math.random() * quotes.length)];
 }
 (() => {
   let quoteOfToday = getQuote();
