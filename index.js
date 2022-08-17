@@ -60,14 +60,14 @@ function getQuote() {
 	})
 
 	//Favourites
-	const favourite = `<h2 align="center">About Me</h2><br><br>[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg) JavaScript</sub><br>`;
+	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub>\n[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg) JavaScript</sub>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
     console.log(`Test 3 passed, favourite list printed.`);
   });
 
 	//Songs
-	const song = `<br>[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)
+	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)
 	<details>
 		<summary><h5>Sad songs</h5></summary>
 		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
@@ -103,6 +103,6 @@ function getQuote() {
   <details><summary>More info</summary>Given the moniker Brain, the virus was created by two brothers, Basit and Amjad Farooq Alvi, in Pakistan. According to the siblings, who ran a popular computer store, they created Brain to stop their customers from making copies of their software without permission.
 
 	However, unlike traditional viruses, Brain only contained a hidden copyright message and did not corrupt or delete any of the user\’s files or information.</details>
-  ${discordBadge} ${sbsBadge}<br><br>
-  [:arrow_right: Check out my website](${websiteUrl})<br>`;
+  ${discordBadge} ${sbsBadge}\n\n
+  [:arrow_right: Check out my website](${websiteUrl})\n\n`;
 })();
