@@ -20,7 +20,7 @@ function getQuote() {
 		["> From the moment we are born, we begin to die","By Janne Teller< "],
 		["> I love you, not only for what you are, but for what I am when I am with you. < ","By Roy Croft"],
 		["> Love is when the other person's happiness is more important than your own. < "," By H. Jackson Brown, Jr"],
-		["> Life is the flower for which love is the honey","By Victor Hugo < "],
+		["> Life is the flower for which love is the honey < ","By Victor Hugo "],
 		["> It is better to die on your feet than to live on your knees. <","By Emiliano Zapato"],
 		["> Ours not to reason why, ours but to do and die < ","By Alfred Lord Tennyson"],
 		["> It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. <","By Julius Caesar"]
@@ -69,7 +69,7 @@ function getQuote() {
 	//Songs
 	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details align="center"><summary>Favourite Song list</summary><br>
-	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
+	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div>
 		<details align="center">
 			<summary><h5>Sad songs</h5></summary>
 				[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
