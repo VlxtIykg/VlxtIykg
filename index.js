@@ -69,17 +69,16 @@ function getQuote() {
 	//Songs
 	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details><summary>Song list</summary>
-	<details>
+	&emsp;&emsp;<details>
 		&emsp;<summary><h5>Sad songs</h5></summary>
 		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
 		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
 		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)<br>
 		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)<br>
-		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)<br>
+		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
 	</details>
-	<br>
-	<details>
-		<summary>&emsp;<h5>Anime rap</h5></summary>
+	&emsp;&emsp;<details>
+		<summary><h5>Anime rap</h5></summary>
 		&emsp;[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
 		&emsp;[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
 		&emsp;[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
