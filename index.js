@@ -60,14 +60,15 @@ function getQuote() {
 	})
 
 	//Favourites
-	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) JavaScript</sub><br>\n`;
+	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) <br>JavaScript</sub><br>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
     console.log(`Test 3 passed, favourite list printed.`);
   });
 
 	//Songs
-	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)
+	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
+	<details><summary>Song list</summary>
 	<details>
 		<summary><h5>Sad songs</h5></summary>
 		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
@@ -84,6 +85,7 @@ function getQuote() {
 		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
 		[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
 		[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
+	</details>
 	</details>`;
 	fs.appendFileSync("README.md", song, function (err) {
     if (err) return console.log(err);
