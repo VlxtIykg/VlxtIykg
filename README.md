@@ -1,6 +1,6 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; I love you, not only for what you are, but for what I am when I am with you.
+<div align="center"><pre><code>	&gt; I love you, not only for what you are, but for what I am when I am with you. &lt; 
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
 	By Roy Croft
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
@@ -10,7 +10,8 @@
 [Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>
 [Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) <br>JavaScript</sub><br>
 [Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
-	<details align="center"><summary>Song list</summary>
+	<details align="center"><summary>Favourite Song list</summary><br>
+	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 		<details align="center">
 			<summary><h5>Sad songs</h5></summary>
 				[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
