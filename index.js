@@ -70,7 +70,7 @@ function getQuote() {
 	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details><summary>Song list</summary>
 	<details>
-		&enps;<summary><h5>Sad songs</h5></summary>
+		&emsp;<summary><h5>Sad songs</h5></summary>
 		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
 		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
 		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)<br>
@@ -79,7 +79,7 @@ function getQuote() {
 	</details>
 	<br>
 	<details>
-		&enps;<summary><h5>Anime rap</h5></summary>
+		&emsp;<summary><h5>Anime rap</h5></summary>
 		[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
 		[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
 		[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
