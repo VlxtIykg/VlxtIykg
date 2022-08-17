@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; Ours not to reason why, ours but to do and die &lt; 
+<div align="center"><pre><code>	&gt; From the moment we are born, we begin to die
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	By Alfred Lord Tennyson
+	By Janne Teller&lt; 
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
