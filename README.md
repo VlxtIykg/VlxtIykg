@@ -8,7 +8,7 @@
 </div><h2 align="center">About Me</h2>
 
 [Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>
-[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg) JavaScript</sub><br>
+[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) JavaScript</sub><br>
 [Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)
 	<details>
 		<summary><h5>Sad songs</h5></summary>

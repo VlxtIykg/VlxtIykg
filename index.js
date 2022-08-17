@@ -32,7 +32,7 @@ function getQuote() {
 (() => {
   let quoteOfToday = getQuote();
 
- const discordBadge = `[<img src="./discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
+ const discordBadge = `[<img src="images/discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
  const sbsBadge = `[<img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=${badgeHeight}>](${sbsUrl})`;
 
 	//Header
@@ -60,7 +60,7 @@ function getQuote() {
 	})
 
 	//Favourites
-	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](https://thumbs.dreamstime.com/z/moscow-russia-june-javascript-js-logo-sign-program-code-background-illustrative-editorial-189667693.jpg) JavaScript</sub><br>\n`;
+	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) JavaScript</sub><br>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
     console.log(`Test 3 passed, favourite list printed.`);
