@@ -14,24 +14,13 @@ const badgeHeight = "25";
 
 md.use(emoji);
 function getQuote() {
-	const quotes = [
-		["> We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim. < ","By R.M. Drake"],
-		["> All alone! Whether you like it or not, alone is something you'll be quite a lot! < ","By Dr. Seuss"],
-		["> From the moment we are born, we begin to die","By Janne Teller< "],
-		["> I love you, not only for what you are, but for what I am when I am with you. < ","By Roy Croft"],
-		["> Love is when the other person's happiness is more important than your own. < "," By H. Jackson Brown, Jr"],
-		["> Life is the flower for which love is the honey < ","By Victor Hugo "],
-		["> It is better to die on your feet than to live on your knees. <","By Emiliano Zapato"],
-		["> Ours not to reason why, ours but to do and die < ","By Alfred Lord Tennyson"],
-		["> It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. <","By Julius Caesar"]
-		["> If you prick us do we not bleed? If you tickle us do we not laugh? If you poison us do we not die? And if you wrong us shall we not revenge? < ","By William Shakespeare"]
-	]
+	const quotes = require('./dist/quotes.json')
 	return randomQuotes = quotes[Math.floor(Math.random() * quotes.length)];
 }
 (() => {
   let quoteOfToday = getQuote();
   console.log(quoteOfToday);
- const discordBadge = `[<img src="images/discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
+ const discordBadge = `[<img src="dist/images/discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
  const sbsBadge = `[<img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=${badgeHeight}>](${sbsUrl})`;
 
 	//Header
@@ -59,7 +48,7 @@ function getQuote() {
 	})
 
 	//Favourites
-	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) <br>JavaScript</sub><br>\n`;
+	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](dist/images/JavaScript.png) <br>JavaScript</sub><br>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
     console.log(`Test 3 passed, favourite list printed.`);

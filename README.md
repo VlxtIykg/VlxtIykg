@@ -1,14 +1,14 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; Love is when the other person's happiness is more important than your own. &lt; 
+<div align="center"><pre><code>	&gt; All alone! Whether you like it or not, alone is something you'll be quite a lot! &lt; 
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	 By H. Jackson Brown, Jr
+	By Dr. Seuss
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
 
 [Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>
-[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) <br>JavaScript</sub><br>
+[Current] My Favourite programming language: <sub>![JavaScript](dist/images/JavaScript.png) <br>JavaScript</sub><br>
 [Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details align="center"><summary>Favourite Song list</summary><br>
 	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
