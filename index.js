@@ -69,8 +69,8 @@ function getQuote() {
 	//Songs
 	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details align="center"><summary>Favourite Song list</summary><br>
-	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div>
 		<details align="center">
+			<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 			<summary><h5>Sad songs</h5></summary>
 				[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
 				[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
