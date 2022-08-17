@@ -86,7 +86,9 @@ function getQuote() {
 				[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
 				[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
 			</details>
-	</details>`;
+	</details>
+	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
+	`;
 	fs.appendFileSync("README.md", song, function (err) {
     if (err) return console.log(err);
     console.log(`Test 4 passed, song list posted`);
