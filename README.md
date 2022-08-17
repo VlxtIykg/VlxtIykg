@@ -1,6 +1,13 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
+<<<<<<< HEAD
 <div align="center"><pre><code>	&gt; From the moment we are born, we begin to die
+=======
+<<<<<<< HEAD
+<div align="center">
+=======
+<div align="center"><pre><code>	&gt; I love you, not only for what you are, but for what I am when I am with you.
+>>>>>>> 6580fce040575c35151a4e3aa79feaf8ddd9ff38
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
 	By Janne Teller
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
