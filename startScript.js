@@ -6,5 +6,8 @@ if(currentOS === 'Linux') {
 	const output = execSync('cd /home/kami/Documents/github/VlxtIykg/controller/scripts && ./startup.sh', { encoding: 'utf-8' });
 	console.log(output);
 } else if(currentOS === 'Windows_NT') {
-    execSync("cd controller/scripts; ./startup.sh");
+	const output = execSync('cd C:\\Users\\kami\\Documents\\Github\\VlxtIykg\\controller\\scripts && ./startup.bat', { encoding: 'utf-8' });
+	console.log(output);
+} else {
+	console.log("OS not found.");
 }
