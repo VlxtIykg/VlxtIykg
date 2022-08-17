@@ -36,22 +36,6 @@ function getQuote() {
  const discordBadge = `[<img src="./discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
  const sbsBadge = `[<img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=${badgeHeight}>](${sbsUrl})`;
 
-const bot = `
-<h3 align="center">Bot</h3>\n
-:construction_worker: I’m currently working on a puzzlebot *[Discord bot](https://discord.com/developers/docs/intro#bots-and-apps)* tailored for a specific person!\n
-:sparkles: The features are create a puzzle, upload answer, check database and restart command.\n
-:card_file_box: The library for puzzlebot uses [Eris](https://abal.moe/Eris/docs/0.17.1/).\n
-:memo: There are other discord bot libraries, check them out [here!](https://discord.com/developers/docs/topics/community-resources#libraries) <details><summary>Languages with discord bot api (libraries)</summary>
-\`\`\`The languages supported for the libraries are C#, Go, Java, JavaScript, Lua, Php, Python, Ruby, Rust\`\`\`\n</details>
-📞📖 How to reach me: Add me on Discord @ Kami#7715 or join discord.gg/sbs and ping me!\n
-  💬 Ask me about something on discord, I may answer it!\n
-  <p>:eyes: Fun fact: The first computer virus was created in 1986</p>
-  <details><summary>More info</summary>Given the moniker Brain, the virus was created by two brothers, Basit and Amjad Farooq Alvi, in Pakistan. According to the siblings, who ran a popular computer store, they created Brain to stop their customers from making copies of their software without permission.
-
-	However, unlike traditional viruses, Brain only contained a hidden copyright message and did not corrupt or delete any of the user\’s files or information.</details>
-  ${discordBadge} ${sbsBadge}\n\n
-  [:arrow_right: Check out my website](${websiteUrl})\n\n`;
-
 	//Header
 	const header = `<h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>\n<h2 align="center">Quote of the day</h2>\n<div align="center">`
 	fs.writeFileSync("README.md", header, function(err) { 
@@ -106,4 +90,20 @@ const bot = `
     if (err) return console.log(err);
     console.log(`Test 4 passed, song list posted`);
   });
+
+  const bot = `
+<h3 align="center">Bot</h3>\n
+:construction_worker: I’m currently working on a puzzlebot *[Discord bot](https://discord.com/developers/docs/intro#bots-and-apps)* tailored for a specific person!\n
+:sparkles: The features are create a puzzle, upload answer, check database and restart command.\n
+:card_file_box: The library for puzzlebot uses [Eris](https://abal.moe/Eris/docs/0.17.1/).\n
+:memo: There are other discord bot libraries, check them out [here!](https://discord.com/developers/docs/topics/community-resources#libraries) <details><summary>Languages with discord bot api (libraries)</summary>
+\`\`\`The languages supported for the libraries are C#, Go, Java, JavaScript, Lua, Php, Python, Ruby, Rust\`\`\`\n</details>
+📞📖 How to reach me: Add me on Discord @ Kami#7715 or join discord.gg/sbs and ping me!\n
+  💬 Ask me about something on discord, I may answer it!\n
+  <p>:eyes: Fun fact: The first computer virus was created in 1986</p>
+  <details><summary>More info</summary>Given the moniker Brain, the virus was created by two brothers, Basit and Amjad Farooq Alvi, in Pakistan. According to the siblings, who ran a popular computer store, they created Brain to stop their customers from making copies of their software without permission.
+
+	However, unlike traditional viruses, Brain only contained a hidden copyright message and did not corrupt or delete any of the user\’s files or information.</details>
+  ${discordBadge} ${sbsBadge}\n\n
+  [:arrow_right: Check out my website](${websiteUrl})\n\n`;
 })();
