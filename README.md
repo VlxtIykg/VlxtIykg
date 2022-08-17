@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; From the moment we are born, we begin to die
+<div align="center"><pre><code>	&gt; Love is when the other person's happiness is more important than your own. &lt; 
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	By Janne Teller&lt; 
+	 By H. Jackson Brown, Jr
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
