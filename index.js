@@ -60,7 +60,7 @@ function getQuote() {
 	})
 
 	//Favourites
-	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) <br>JavaScript</sub><br>\n`;
+	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) <br>JavaScript</sub><br>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
     console.log(`Test 3 passed, favourite list printed.`);
@@ -68,22 +68,22 @@ function getQuote() {
 
 	//Songs
 	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
-	<details><summary>Song list</summary>
-	&emsp;&emsp;<details>
-		&emsp;<summary><h5>Sad songs</h5></summary>
-		[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
-		[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
-		[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)<br>
-		[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)<br>
-		[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
-	</details>
-	&emsp;&emsp;<details>
-		<summary><h5>Anime rap</h5></summary>
-		&emsp;[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
-		&emsp;[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
-		&emsp;[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
-		&emsp;[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
-		&emsp;[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
+	<details align="center"><summary>Song list</summary>
+		<details align="center">
+			<summary><h5>Sad songs</h5></summary>
+			[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
+			[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
+			[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)<br>
+			[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)<br>
+			[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)
+		</details>
+		<details align="center">
+			<summary><h5>Anime rap</h5></summary>
+			[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
+			[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
+			[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
+			[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
+			[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
 	</details>
 	</details>`;
 	fs.appendFileSync("README.md", song, function (err) {
