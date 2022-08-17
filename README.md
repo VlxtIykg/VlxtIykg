@@ -1,13 +1,13 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; I love you, not only for what you are, but for what I am when I am with you. &lt; 
+<div align="center"><pre><code>	&gt; From the moment we are born, we begin to die
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	By Roy Croft
+	By Janne Teller&lt; 
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
 
-[Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>
+<!--[Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>-->
 [Current] My Favourite programming language: <sub>![JavaScript](dist/images/JavaScript.png) <br>JavaScript</sub><br>
 [Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details align="center"><summary>Favourite Song list</summary><br>

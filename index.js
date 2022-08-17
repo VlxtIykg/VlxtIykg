@@ -48,7 +48,7 @@ function getQuote() {
 	})
 
 	//Favourites
-	const favourite = `<h2 align="center">About Me</h2>\n\n[Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>\n[Current] My Favourite programming language: <sub>![JavaScript](dist/images/JavaScript.png) <br>JavaScript</sub><br>\n`;
+	const favourite = `<h2 align="center">About Me</h2>\n\n<!--[Current] My Favourite emoji: <br><sub>![FavEmojiHere](https://cdn.discordapp.com/emojis/955415390354276372.webp?size=80)</sub><br>-->\n[Current] My Favourite programming language: <sub>![JavaScript](dist/images/JavaScript.png) <br>JavaScript</sub><br>\n`;
   fs.appendFileSync("README.md", favourite, function (err) {
 		if (err) return console.log(err + '\nTest 3 failed, favourite list failed to print. L82 Vlxtiykg/index.js');
     console.log(`Test 3 passed, favourite list printed.`);
