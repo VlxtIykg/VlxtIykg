@@ -31,7 +31,7 @@ function getQuote() {
 }
 (() => {
   let quoteOfToday = getQuote();
-
+  console.log(quoteOfToday);
  const discordBadge = `[<img src="images/discordlogo.png" height=${badgeHeight}>](${discordUrl})`;
  const sbsBadge = `[<img src="https://cdn.discordapp.com/icons/652148034448261150/a_1eaa1f0ecc10b7d5272ebcb190d7fda1.webp?size=32" height=${badgeHeight}>](${sbsUrl})`;
 
@@ -71,20 +71,20 @@ function getQuote() {
 	<details align="center"><summary>Song list</summary>
 		<details align="center">
 			<summary><h5>Sad songs</h5></summary>
-			[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)<br>
-			[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)<br>
-			[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)<br>
-			[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
-			[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
+				[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
+				[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
+				[Me and your ghost](https://www.youtube.com/watch?v=HQM_T-ijA_I)<br>
+				[Anxiety - blackbear](https://www.youtube.com/watch?v=w4rq0H8v_Dk)<br>
+				[Queen of broken hearts](https://www.youtube.com/watch?v=sxf3K4Wt4x4)
 		</details>
 		<details align="center">
-		<summary><h5>Anime rap</h5></summary>
-			[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
-			[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
-			[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
-			[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
-			[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
-	</details>
+			<summary><h5>Anime rap</h5></summary>
+				[Running In Blind - Gojo Rap](https://www.youtube.com/watch?v=AqKm5HFWAZw)<br>
+				[Roll Call - Koro Sensei Rap](https://www.youtube.com/watch?v=GecfllwjdPY)<br>
+				[Forgive Me - Gon Rap](https://www.youtube.com/watch?v=Iz0HjeTMnpA)<br>
+				[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
+				[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
+			</details>
 	</details>`;
 	fs.appendFileSync("README.md", song, function (err) {
     if (err) return console.log(err);
