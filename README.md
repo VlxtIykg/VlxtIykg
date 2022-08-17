@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; It is better to die on your feet than to live on your knees. &lt;
+<div align="center"><pre><code>	&gt; Ours not to reason why, ours but to do and die &lt; 
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	By Emiliano Zapato
+	By Alfred Lord Tennyson
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
@@ -11,8 +11,8 @@
 [Current] My Favourite programming language: <sub>![JavaScript](images/JavaScript.png) <br>JavaScript</sub><br>
 [Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details align="center"><summary>Favourite Song list</summary><br>
+	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 		<details align="center">
-			<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 			<summary><h5>Sad songs</h5></summary>
 				[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
 				[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
@@ -28,6 +28,6 @@
 				[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
 				[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
 			</details>
+			<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 	</details>
-	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 	

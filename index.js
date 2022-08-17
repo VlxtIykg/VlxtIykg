@@ -69,8 +69,8 @@ function getQuote() {
 	//Songs
 	const song = `[Current] My Favourite songs: [Astrid S - Hurt so Good](https://www.youtube.com/watch?v=4fqwVBuunxY)<br>
 	<details align="center"><summary>Favourite Song list</summary><br>
+	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 		<details align="center">
-			<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 			<summary><h5>Sad songs</h5></summary>
 				[Death bed](https://www.youtube.com/watch?v=jJPMnTXl63E)<br>
 				[SnowFlake](https://www.youtube.com/watch?v=dvLFMZUcqlU)<br>
@@ -86,8 +86,8 @@ function getQuote() {
 				[King - Mureuem Rap](https://www.youtube.com/watch?v=AgprfVieuBQ)<br>
 				[Oni - Nezuko Rap](https://www.youtube.com/watch?v=Pt9NMSITIH0)<br>
 			</details>
+			<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 	</details>
-	<div align="center">┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄</div><br>
 	`;
 	fs.appendFileSync("README.md", song, function (err) {
     if (err) return console.log(err);
