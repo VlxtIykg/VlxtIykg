@@ -1,8 +1,8 @@
 <h2 align="center"> -ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
 <h2 align="center">Quote of the day</h2>
-<div align="center"><pre><code>	&gt; From the moment we are born, we begin to die &lt; 
+<div align="center"><pre><code>	&gt; If you prick us do we not bleed? If you tickle us do we not laugh? If you poison us do we not die? And if you wrong us shall we not revenge? &lt; 
 	﹌﹌﹌﹌\⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-	By Janne Teller
+	By William Shakespeare
 	﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 </div><h2 align="center">About Me</h2>
