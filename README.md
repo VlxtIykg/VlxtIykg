@@ -7,9 +7,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > From the moment we are born, we begin to die <  <
+<pre><code>> > Maybe if I loved harder, I would understand the meaning of it <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Janne Teller
+By Me
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
