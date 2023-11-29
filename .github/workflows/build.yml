@@ -25,9 +25,6 @@ jobs:
     - name: Create temporary branch and merge main
       run: |
         git checkout -b temp
-        git diff
-        git rm .gitignore
-        git commit -m "Remove gitignore from temp branch" || exit 0
         git merge origin/workflow
         git merge origin/main
         ls -lahrS
