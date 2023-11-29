@@ -31,8 +31,10 @@ jobs:
     
     - name: Pull info
       run: |
+        git stash
         git pull origin main
-        ls
+        git stash pop
+        ls -lahrS
 
     - name: Install dependencies
       run: npm ci # or use 'npm install' if you don't have a lock file
