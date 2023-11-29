@@ -19,7 +19,7 @@ jobs:
       run: |
         git checkout -b temp
         git merge --ff-only main
-        git merge --ff-only feature-branch
+        git merge --ff-only workflow
         ls -lahrS
 
     - name: Install Node.js
