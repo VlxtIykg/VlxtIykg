@@ -43,4 +43,4 @@ jobs:
         git diff
         git add README.md
         git commit -m "Update README\nPushed by github actions" || exit 0
-        git push -f -u origin main
+        git push -f -u origin workflow:main README.md:README.md
