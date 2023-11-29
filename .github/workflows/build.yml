@@ -62,7 +62,7 @@ jobs:
         git diff
         git add README.md
         git commit -m "Update README\nPushed by actions@github.com" || exit 0
-        git push origin main
+        git push -u origin main
 
     - name: Delete temporary branch
       run: git branch -d temp
