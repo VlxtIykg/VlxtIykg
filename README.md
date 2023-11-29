@@ -7,9 +7,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > It is better to die on your feet than to live on your knees. <  <
+<pre><code>> > Love is when the other person's happiness is more important than your own. <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Emiliano Zapato
+By H. Jackson Brown, Jr
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
