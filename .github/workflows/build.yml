@@ -2,7 +2,7 @@ name: Update Quotes
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs every day at 12 AM UTC
+    - cron: '*/5 * * * *' # Runs every 5 minutes
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -10,71 +10,47 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout workflow branch
-      uses: actions/checkout@v2
-      with:
-        ref: workflow
-        fetch-depth: 0
-        
-    - name: Create and checkout temp branch
-      run: git checkout -b temp
-      
-    - name: Verify identity
-      run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        # git config --global core.editor "nano"
+      - name: Clone main branch
+        uses: actions/checkout@v2
+        with:
+          ref: main # Checkout the main branch
+          path: main # Specify a subdirectory for the main branch
 
+          
+      - name: Switch to workflow branch
+        uses: actions/checkout@v2
+        with:
+          ref: workflow  # Checkout the main branch
+          path: workflow # Specify a subdirectory for the main branch
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 14
 
-    - name: Merge temp -> workflow
-      uses: devmasx/merge-branch@master
-      with:
-        type: now
-        target_branch: main
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install dependencies
+        run: |
+          cd workflow
+          npm ci
 
-    - name: Force checkout temp branch and merge temp
-      run: |
-          git checkout -B temp
-          git merge temp --strategy-option theirs
-  
-    - name: Log current directory
-      run: |
-        ls -lahrS
+      - name: Run JavaScript script
+        run: |
+          cd workflow
+          node index.js
 
-    - name: Install Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '20.10' # Use the version of Node.js that your script requires
+      - name: Transfer readme
+        run: |
+          cd workflow
+          mv -f README.md ../main/README.md
+          cd ../main
+          ls . -lahrS 
 
-    - name: Cache dependencies
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-
-    - name: Install dependencies
-      run: npm ci # or use 'npm install' if you don't have a lock file
-
-    - name: Run quote generator
-      run: node index.js
-    
-    - name: Remove workflow direcotries
-      run: |
-        rm -rf node_modules
-        rm package*.json
-        rm -rf .gitignore 
-        rm -rf index.js
-        rm -rf dist
-        
-    - name: Commit and push if changed
-      run: |
-        git add README.md
-        git commit -m "Update README\nPushed by actions@github.com" || exit 0
-        ls -lahrS
-        git push -f -u origin temp:main
-
-    - name: Delete temporary branch
-      run: git branch -d temp
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git add .github/actions/build.yml
+          # # Add more git add commands for other necessary files
+          git commit -m "Update README with quotes" || exit 0 # Don't fail if nothing to commit
+          git push # Push changes to the workflow branch
