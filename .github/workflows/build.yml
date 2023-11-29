@@ -27,15 +27,14 @@ jobs:
 
     - name: Merge main into temp with conflict resolution
       run: |
+          git commit -m "Remove gitignore" || exit 0
           git merge origin/main --no-commit
           # Resolve conflicts manually, if any, in your working directory
           # Once conflicts are resolved, add the resolved files
-          git add .
+          git rm .gitignore
   
-          # Continue with the merge commit
-          git merge --continue
       shell: bash
-      
+
     - name: Log current directory
       run: |
         ls -lahrS
