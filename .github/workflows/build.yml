@@ -14,62 +14,47 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref: workflow
-        fetch-depth: 0
 
-    - name: Set up Node.js
+    - name: Create temporary branch and merge main
+      run: |
+        git checkout -b temp
+        git pull origin main
+
+    - name: Install Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '20.10' # Use the version of Node.js that your script requires
 
-    - name: Cache npm dependencies
+    - name: Cache dependencies
       uses: actions/cache@v2
       with:
         path: ~/.npm
         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.os }}-node-
-    
-    - name: Pull info
-      run: |
-        git stash
-        git pull origin main
-        git stash pop
-        ls -lahrS
 
     - name: Install dependencies
       run: npm ci # or use 'npm install' if you don't have a lock file
 
-    - name: Get quotes and update README
+    - name: Run quote generator
       run: node index.js
-
-    - name: Config
+    
+    - name: Remove workflow direcotries
+      run: |
+        rm -rf node_modules
+        rm package*.json
+        rm -rf .gitignore 
+        rm -rf index.js
+        rm -rf dist
+        
+    - name: Commit and push if changed
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git config --global advice.addIgnoredFile false
+        git diff
+        git add README.md
+        git commit -m "Update README\nPushed by actions@github.com" || exit 0
+        git push origin main
 
-    - name: Commit changes
-      run: |
-          git diff
-          git add README.md
-          git commit -m "Update README\nPushed by github actions" || exit 0
-
-    - name:
-      uses: actions/checkout@v2
-      with:
-        ref: main
-        fetch-depth: 0
-
-    - name: Remove files
-      run: |
-          ls
-          rm -rf .dist
-          rm -rf node_modules
-          rm -rf .gitignore
-          rm -rf index.js
-          rm -rf package.json
-          rm -rf package-lock.json
-
-    - name: Push updates
-      run: |
-          git push
+    - name: Delete temporary branch
+      run: git branch -d temp
