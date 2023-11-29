@@ -7,9 +7,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > Ours not to reason why, ours but to do and die <  <
+<pre><code>> > All alone! Whether you like it or not, alone is something you'll be quite a lot! <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Alfred Lord Tennyson
+By Dr. Seuss
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
@@ -60,7 +60,7 @@ Check out my portfolio website and dashboard:
 I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website and dashboard. 
 > **Note:** This domain is registered with Freenom.
 
-![Traffic](images/traffic.png)
+<!-- ![Traffic](images/traffic.png) -->
 
 <br><br>
 ## Computer Management
