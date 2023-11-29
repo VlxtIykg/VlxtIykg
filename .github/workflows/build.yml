@@ -53,5 +53,5 @@ jobs:
           git add README.md
           git add .github
           # # Add more git add commands for other necessary files
-          git commit -m "Update README with quotes" || exit 0 # Don't fail if nothing to commit
+          git commit -m "Daily readme update!" || exit 0 # Don't fail if nothing to commit
           git push # Push changes to the workflow branch
