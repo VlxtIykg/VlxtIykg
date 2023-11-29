@@ -35,12 +35,31 @@ jobs:
     - name: Get quotes and update README
       run: node index.js
 
-    - name: Commit and push if changed
+    - name: Config
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git config --global advice.addIgnoredFile false
-        git diff
-        git add README.md
-        git commit -m "Update README\nPushed by github actions" || exit 0
-        git push -f -u origin workflow:main README.md:README.md
+
+    - name: Commit changes
+      run: |
+          git diff
+          git add README.md
+          git commit -m "Update README\nPushed by github actions" || exit 0
+          git pull . workflow
+
+    - name:
+      uses: actions/checkout@v2
+      with:
+        ref: main
+        fetch-depth: 0
+
+    - name: Remove files
+      run: |
+        rm -rf .dist
+        rm -rf node_modules
+        rm -rf .gitignore
+        rm -rf index.js
+        rm -rf package.json
+        rm -rf package-lock.json
+        
