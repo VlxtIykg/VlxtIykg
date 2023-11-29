@@ -27,7 +27,7 @@ jobs:
         git checkout -b temp
         git merge origin/main
         git rm .gitignore
-        git commit -m "Remove gitignore from temp branch" || exit 0
+        git merge --continue # git commit -m "Remove gitignore from temp branch" || exit 0
 
     - name: Log current directory
       run: |
