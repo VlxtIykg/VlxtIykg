@@ -25,16 +25,18 @@ jobs:
         git config --global user.name "GitHub Action"
         # git config --global core.editor "nano"
 
-    - name: Stability stuff
-      run: |
-        git commit -m "Remove gitignore" || exit 0    
 
-    - name: Merge staging -> uat
+    - name: Merge temp -> workflow
       uses: devmasx/merge-branch@master
       with:
         type: now
         target_branch: workflow
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Force checkout workflow branch and merge temp
+      run: |
+          git checkout -B workflow
+          git merge temp --strategy-option theirs
   
     - name: Log current directory
       run: |
