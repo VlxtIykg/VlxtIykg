@@ -18,7 +18,8 @@ By Me
 
 <h2>About Me</h2>
 
-  
+**Bio: [e-z.bio/kami](https://e-z.bio/kami)**
+
 
 📞📖 How to reach me: Add me on Discord `whykami`!
 
@@ -28,7 +29,6 @@ I personally use Arch Linux, but I have used many other distros including Ubuntu
 
 I play tetris, minecraft, and town of salem 2 ever so often
 
-**Bio: [e-z.bio/kami](https://e-z.bio/kami)**
 
 
 <br><br>
