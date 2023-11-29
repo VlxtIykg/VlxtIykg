@@ -25,7 +25,9 @@ jobs:
     - name: Create temporary branch and merge main
       run: |
         git checkout -b temp
+        git commit -m "Remove gitignore from temp branch" || exit 0
         git merge origin/main
+        git rm .gitignore
         ls -lahrS
 
     - name: Install Node.js
