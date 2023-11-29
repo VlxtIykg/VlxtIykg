@@ -21,6 +21,7 @@
     "fs": "^0.0.1-security",
     "markdown-it": "^13.0.1",
     "markdown-it-emoji": "^2.0.2",
+    "node-fetch": "^2.7.0",
     "nodemon": "^2.0.19",
     "os": "^0.1.2"
   }
