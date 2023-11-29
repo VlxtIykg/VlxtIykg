@@ -25,16 +25,13 @@ jobs:
         git config --global user.name "GitHub Action"
         # git config --global core.editor "nano"
 
-    - name: Merge main into temp with conflict resolution
-      run: |
-          git commit -m "Remove gitignore" || exit 0
-          git merge origin/workflow --no-commit
-          # Resolve conflicts manually, if any, in your working directory
-          # Once conflicts are resolved, add the resolved files
-          git rm .gitignore
+    - name: Merge staging -> uat
+      uses: devmasx/merge-branch@master
+      with:
+        type: now
+        target_branch: workflow
+        github_token: ${{ secrets.GITHUB_TOKEN }}
   
-      shell: bash
-
     - name: Log current directory
       run: |
         ls -lahrS
