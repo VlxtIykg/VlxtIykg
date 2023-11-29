@@ -56,10 +56,13 @@ jobs:
 
     - name: Remove files
       run: |
-        rm -rf .dist
-        rm -rf node_modules
-        rm -rf .gitignore
-        rm -rf index.js
-        rm -rf package.json
-        rm -rf package-lock.json
-        
+          rm -rf .dist
+          rm -rf node_modules
+          rm -rf .gitignore
+          rm -rf index.js
+          rm -rf package.json
+          rm -rf package-lock.json
+
+    - name: Push updates
+      run: |
+          git push origin main
