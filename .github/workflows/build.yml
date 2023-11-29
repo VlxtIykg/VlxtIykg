@@ -14,12 +14,22 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref: workflow
+        fetch-depth: 0
+        
+    - name: Verify identity
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        # git config --global core.editor "nano"
 
     - name: Create temporary branch and merge main
       run: |
         git checkout -b temp
-        git merge --ff-only origin main
-        git merge --ff-only origin workflow
+        git diff
+        git rm .gitignore
+        git commit -m "Remove gitignore from temp branch" || exit 0
+        git merge origin/workflow
+        git merge origin/main
         ls -lahrS
 
     - name: Install Node.js
@@ -51,8 +61,6 @@ jobs:
         
     - name: Commit and push if changed
       run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
         git diff
         git add README.md
         git commit -m "Update README\nPushed by actions@github.com" || exit 0
