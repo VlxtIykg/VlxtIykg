@@ -28,6 +28,11 @@ jobs:
         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.os }}-node-
+    
+    - name: Pull info
+      run: |
+        git pull origin main
+        ls
 
     - name: Install dependencies
       run: npm ci # or use 'npm install' if you don't have a lock file
@@ -46,7 +51,6 @@ jobs:
           git diff
           git add README.md
           git commit -m "Update README\nPushed by github actions" || exit 0
-          git pull . workflow
 
     - name:
       uses: actions/checkout@v2
