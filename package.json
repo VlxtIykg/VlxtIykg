@@ -1,0 +1,27 @@
+{
+  "name": "vlxtiykg",
+  "version": "1.0.0",
+  "description": "<!--\r **VlxtIykg/VlxtIykg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VlxtIykg/VlxtIykg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VlxtIykg/VlxtIykg/issues"
+  },
+  "homepage": "https://github.com/VlxtIykg/VlxtIykg#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "markdown-it": "^13.0.1",
+    "markdown-it-emoji": "^2.0.2",
+    "nodemon": "^2.0.19",
+    "os": "^0.1.2"
+  }
+}
