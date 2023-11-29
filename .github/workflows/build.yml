@@ -18,8 +18,8 @@ jobs:
     - name: Create temporary branch and merge main
       run: |
         git checkout -b temp
-        git merge --ff-only main
-        git merge --ff-only workflow
+        git merge --ff-only origin main
+        git merge --ff-only origin workflow
         ls -lahrS
 
     - name: Install Node.js
