@@ -13,7 +13,7 @@ jobs:
     - name: Checkout workflow branch
       uses: actions/checkout@v2
       with:
-        ref: main
+        ref: workflow
         fetch-depth: 0
         
     - name: Create and checkout temp branch
@@ -30,12 +30,12 @@ jobs:
       uses: devmasx/merge-branch@master
       with:
         type: now
-        target_branch: workflow
+        target_branch: main
         github_token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Force checkout workflow branch and merge temp
+    - name: Force checkout temp branch and merge temp
       run: |
-          git checkout -B workflow
+          git checkout -B temp
           git merge temp --strategy-option theirs
   
     - name: Log current directory
