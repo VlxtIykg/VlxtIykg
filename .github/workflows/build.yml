@@ -25,6 +25,10 @@ jobs:
         git config --global user.name "GitHub Action"
         # git config --global core.editor "nano"
 
+    - name: Stability stuff
+      run: |
+        git commit -m "Remove gitignore" || exit 0    
+
     - name: Merge staging -> uat
       uses: devmasx/merge-branch@master
       with:
