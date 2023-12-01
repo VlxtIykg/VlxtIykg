@@ -25,7 +25,7 @@ By R.M. Drake
 
 Fun fact: The quote of the day changes whenever I boot my computer which doesn't happen too often.
 
-I personally use Arch Linux, but I have used many other distros including Ubuntu, Windows 10, Windows 11 and more!
+I have used many distros including but not limited to Ubuntu, Arch, Windows 10, Windows 11 and more!
 
 I play tetris, minecraft, and town of salem 2 ever so often
 
