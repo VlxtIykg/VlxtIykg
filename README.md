@@ -16,28 +16,28 @@ By R.M. Drake
 </div>
 <!-- END: Do not modify the quote above -->
 
+### ✨ Hey, I'm Kami! 
+Taken by someone, amazed by technology, and a lover of all things cute! 
+
 <h2>About Me</h2>
 
-**Bio: [e-z.bio/kami](https://e-z.bio/kami)**
+📖 **Bio: [e-z.bio/kami](https://e-z.bio/kami)**
+
+📞 How to reach me: Add me on Discord `whykami`!
 
 
-📞📖 How to reach me: Add me on Discord `whykami`!
+🕹️ I play tetris, minecraft, and town of salem 2 ever so often
 
-Fun fact: The quote of the day changes whenever I boot my computer which doesn't happen too often.
-
-I have used many distros including but not limited to Ubuntu, Arch, Windows 10, Windows 11 and more!
-
-I play tetris, minecraft, and town of salem 2 ever so often
-
-
+### Github activity
+![](https://github-readme-stats-one-bice.vercel.app/api?username=VlxtIykg&include_all_commits=true&show_icons=true&title_color=8a4eff&text_color=b36eff&icon_color=9c6eff&role=OWNER,ORGANIZATION_MEMBER)
 
 <br><br>
-## Learning
-- AI, ML, DL, NLP, CV, and more!
-## Projects
+## 📚 Learning
+- 🤖 AI, ML, DL, NLP, CV, and more!
+## 🌱 Projects
 - Developing an image classifier to discern between matching and solo pictures.
 
-## Experience
+## 🏆 I have experience in
 - Languages: Python, JavaScript, Java, HTML, CSS, PHP, SQL, Rust, and more!
 - Website development using HTML, CSS, JavaScript, and PHP
 - Discord bot development using  Eris, Discord.js, Discord.py, and pycord
@@ -101,3 +101,8 @@ I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website
 	</div></li>
 </ul>
 </details>
+
+## Fun facts
+- The quote of the day changes every 12am utc. <br>
+- I have used over 10 different operating systems. <br>
+
