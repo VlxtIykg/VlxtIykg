@@ -17,7 +17,8 @@ By R.M. Drake
 <!-- END: Do not modify the quote above -->
 
 ### ✨ Hey, I'm Kami! 
-Taken by someone, amazed by technology, and a lover of all things cute! 
+Nice to meet you! 👋<br>
+I'm taken by someone special 💞 and I'm amazed by technology. I'm also a lover of all things cute! 
 
 <h2>About Me</h2>
 
@@ -32,10 +33,26 @@ Taken by someone, amazed by technology, and a lover of all things cute!
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=VlxtIykg&include_all_commits=true&show_icons=true&title_color=8a4eff&text_color=b36eff&icon_color=9c6eff&role=OWNER,ORGANIZATION_MEMBER)
 
 <br><br>
+## 🌱 Projects
+- Developing an image classifier to discern between matching and solo pictures! 😨
+- Revamping all my old deprecated repositories!
+
+> _Psst_<br>
+
+🌟 **Welcome Contributors!**
+
+If you are interested in helping with the revamping of my old deprecated repositories, I warmly welcome you to contribute! Your contributions will be greatly appreciated.
+
+Feel free to check out the repositories and submit pull requests with your improvements and updates. Together, we can breathe new life into these projects and make them even better!
+
+Thank you in advance for your support and contributions!
+
+## ❄️ Finished projects
+I made a custom [Logger]() for minecraft modding
 ## 📚 Learning
 - 🤖 AI, ML, DL, NLP, CV, and more!
-## 🌱 Projects
-- Developing an image classifier to discern between matching and solo pictures.
+
+_**Note:** The latest stable version of TensorFlow that supports GPU is 2.10. You can find more information in the [official documentation](https://www.tensorflow.org/install/pip)._ 
 
 ## 🏆 I have experience in
 - Languages: Python, JavaScript, Java, HTML, CSS, PHP, SQL, Rust, and more!
@@ -51,7 +68,7 @@ Taken by someone, amazed by technology, and a lover of all things cute!
 
 
 
-## Portfolio Website and Dashboard
+## 💫 Portfolio Website and Dashboard
 Check out my portfolio website and dashboard:
 - [Portfolio Website](https://kami-x.tk) (Work in progress)
 - [Dashboard](https://heimdall.kami-x.tk)<br>
@@ -63,7 +80,7 @@ I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website
 <!-- ![Traffic](images/traffic.png) -->
 
 <br><br>
-## Computer Management
+## 📁 Computer Management
 - Flashing OS images
 
 <details>
@@ -86,7 +103,7 @@ I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website
 - Many more!
 
 
-## Home server (VPS)
+## 📁 Home server (VPS)
 <details>
 	<summary>Server hosting personal services</summary><br>
 	
@@ -102,7 +119,7 @@ I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website
 </ul>
 </details>
 
-## Fun facts
+## 🎉 Fun facts
 - The quote of the day changes every 12am utc. <br>
 - I have used over 10 different operating systems. <br>
 
