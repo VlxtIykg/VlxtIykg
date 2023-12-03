@@ -75,7 +75,7 @@ Check out my portfolio website and dashboard:
 - [Dashboard](https://heimdall.kami-x.tk)<br>
 > **Note:** If empty click on user select, bottom left, then select user.<br>
 - [My Minecraft Mod](https://sbu.kami-x.tk)<br>
-I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website and dashboard. 
+I own over 25 sub-domains under kami-x.tk, which I use to host my portfolio website and dashboard. 
 > **Note:** This domain is registered with Freenom.
 
 <!-- ![Traffic](images/traffic.png) -->
