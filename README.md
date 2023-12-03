@@ -24,8 +24,9 @@ I'm taken by someone special 💞 and I'm amazed by technology. I'm also a lover
 
 📖 **Bio: [e-z.bio/kami](https://e-z.bio/kami)**
 
-📞 How to reach me: Add me on Discord `whykami`!
-
+📞 How to reach me: 
+- Discord `whykami`!
+- Email coming soon
 
 🕹️ I play tetris, minecraft, and town of salem 2 ever so often
 
