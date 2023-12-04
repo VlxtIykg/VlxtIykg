@@ -7,9 +7,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > I love you, not only for what you are, but for what I am when I am with you. <  <
+<pre><code>> > All alone! Whether you like it or not, alone is something you'll be quite a lot! <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Roy Croft
+By Dr. Seuss
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
