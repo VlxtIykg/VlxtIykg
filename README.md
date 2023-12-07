@@ -1,4 +1,4 @@
-500: Internal Server Erro<!-- BEGIN: Do not modify the quote below -->
+<!-- BEGIN: Do not modify the quote below -->
 <div align="center">
 
 <h2> ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩ ⑅⋆ ˚｡⋆୨୧˚༶•┈┈୨♡୧┈┈•༶˚୨୧⋆｡˚ ⋆⑅ ♥̩̥̩♥̩̩̥͙♥̩͙ˊˎ</h2>
