@@ -1,5 +1,3 @@
-<!-- # Portfolio -->
-
 <!-- BEGIN: Do not modify the quote below -->
 <div align="center">
 
