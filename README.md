@@ -48,7 +48,7 @@ Feel free to check out the repositories and submit pull requests with your impro
 Thank you in advance for your support and contributions!
 
 ## ❄️ Finished projects
-I made a custom [Logger]() for minecraft modding
+I made a custom [Logger]() for minecraft1.8.9 modding
 ## 📚 Learning
 - 🤖 AI, ML, DL, NLP, CV, and more!
 
@@ -121,5 +121,4 @@ I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website
 
 ## 🎉 Fun facts
 - The quote of the day changes every 12am utc. <br>
-- I have used over 10 different operating systems. <br>
 
