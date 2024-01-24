@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim. <  <
+<pre><code>> > Love is when the other person's happiness is more important than your own. <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By R.M. Drake
+By H. Jackson Brown, Jr
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
