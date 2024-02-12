@@ -63,7 +63,7 @@ _**Note:** The latest stable version of TensorFlow that supports GPU is 2.10. Yo
 - Website development using HTML, CSS, JavaScript, and PHP
 - Discord bot development using  Eris, Discord.js, Discord.py, and pycord
 - Hosting applications, scripts, websites, movies, and personal services
-- DNS server management using PiHole
+- DNS server management using PIHOLE
 - Database management using MySQL and MongoDB
 - Virtual machine via Proxmox, VMware, VirtualBox, and Hyper-V
 - Containers via Docker/Kubernetes
@@ -91,6 +91,7 @@ _**Note:** The latest stable version of TensorFlow that supports GPU is 2.10. Yo
 [![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/platform#platform-diagram-detail)
+[![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
 
 #### ![Database_svg](https://r2.e-z.host/61f4d483-6b13-4eb2-bc2c-e2c07b7484f5/snn8j8zx.png) Databases
 
@@ -109,29 +110,47 @@ _**Note:** The latest stable version of TensorFlow that supports GPU is 2.10. Yo
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/)
-[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
-[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
-[![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://insomnia.rest/)
 
-#### Terminal
+#### 💎 Tools / Frameworks / Libraries
+
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.com/)
+[![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)](https://docs.astro.build/en/getting-started/)
+[![APT](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
+
 
 ## 💫 Portfolio Website and Dashboard
 
-Check out my portfolio website and dashboard:
+Check out my websites:
 
-- [Portfolio Website](https://kami-x.tk) (Work in progress)
-- [Dashboard](https://heimdall.kami-x.tk)<br>
+- [![Dashboard](https://img.shields.io/badge/Heimdall-2C8EBB?style=for-the-badge&logo=Heimdall&logoColor=white)](https://heimdall.kami.wtf/)
 
 > **Note:** If empty click on user select, bottom left, then select user.<br>
-- [My Minecraft Mod](https://sbu.kami-x.tk)<br>
+
+-	[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kami.wtf) (Work in progress)
+- [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.kami.wtf/)
+- [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)](https://grafana.kami.wtf/)
+- [![Guacamole](https://img.shields.io/badge/Guacamole-00000?style=for-the-badge&logo=Apache%20Guacamole&logoColor=white)](https://guacamole.kami.wtf/)
+- [![Portainer](https://img.shields.io/badge/Portainer-13A0F2?style=for-the-badge&logo=Portainer&logoColor=white)](https://porty.kami.wtf/)
+- [![My Minecraft Mod](https://r2.e-z.host/61f4d483-6b13-4eb2-bc2c-e2c07b7484f5/5h8o4m7m.png)](https://github.com/mastermindgolem/Skyblock-Utils)
 
 I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website and dashboard. 
-> **Note:** This domain is registered with Freenom.
+> **Note:** This domain is registered with Freenom however recently I have issues with it. It is now kami.wtf and/or kami.boo
 
 <!-- ![Traffic](images/traffic.png) -->
 
 <br><br>
+
 ## 📁 Computer Management
+
 - Flashing OS images
 
 <details>
@@ -153,8 +172,16 @@ I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website
 - Registry settings (Windows) and config files (Linux)
 - Many more!
 
+### 💻 OS
+A few of the operating systems I have experience with include:
+
+[![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://www.alpinelinux.org/)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
 
 ## 📁 Home server (VPS)
+
 <details>
 	<summary>Server hosting personal services</summary><br>
 	
