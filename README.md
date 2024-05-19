@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > It is better to die on your feet than to live on your knees. <  <
+<pre><code>> > We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim. <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Emiliano Zapato
+By R.M. Drake
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
