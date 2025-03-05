@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > Life is the flower for which love is the honey <  <
+<pre><code>> > It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. < <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Victor Hugo 
+By Julius Caesar
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
