@@ -16,8 +16,9 @@ By Emiliano Zapato
 
 ### ✨ Hey, I'm Kami! 
 Nice to meet you! 👋<br>
-I'm taken by someone special 💞 and I'm amazed by technology. 
-I'm also a lover of all things cute! 
+I'm taken by someone special [💞](我爱你) and I'm amazed by technology. 
+
+我也喜欢可爱的动物？
 
 <h2>About Me</h2>
 
@@ -150,6 +151,7 @@ Check out my websites:
 - [![My Minecraft Mod](https://r2.e-z.host/61f4d483-6b13-4eb2-bc2c-e2c07b7484f5/5h8o4m7m.png)](https://github.com/mastermindgolem/Skyblock-Utils)
 
 ~~I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website and dashboard.~~
+
 I primarily use kami.wtf and kami.boo when kami.boo gets up!
 > **Note:** This domain is registered with Freenom however recently I have issues with it. It is now kami.wtf and/or kami.boo
 
