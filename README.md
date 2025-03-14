@@ -16,14 +16,16 @@ By Emiliano Zapato
 
 ### ✨ Hey, I'm Kami! 
 Nice to meet you! 👋<br>
-I'm taken by someone special 💞 and I'm amazed by technology. I'm also a lover of all things cute! 
+I'm taken by someone special 💞 and I'm amazed by technology. 
+I'm also a lover of all things cute! 
 
 <h2>About Me</h2>
 
 📖 **Bio: [e-z.bio/kami](https://e-z.bio/kami)**
 
-📞 How to reach me: Add me on Discord `whykami`!
+![Discord-Symbol-Black](https://github.com/user-attachments/assets/d7c1cbec-42e6-41d8-94ec-2fad359bebb5) Add me on Discord `whykami`!
 
+📩 Email [me@kami.wtf](mailto:me@kami.wtf)
 
 🕹️ I play tetris, minecraft, and town of salem 2 ever so often
 
@@ -50,7 +52,12 @@ Thank you in advance for your support and contributions!
 
 ## ❄️ Finished projects
 
-I made a custom [Logger](https://github.com/VlxtIykg/logger) for minecraft1.8.9 modding
+I made a custom [Logger](https://github.com/VlxtIykg/logger) for minecraft 1.8.9 modding.
+I made a Minecraft mod dedicated to Skyblock on Hypixel [Skyblock Utils](https://github.com/mastermindgolem/Skyblock-Utils)
+Made an ansible script for a company, [Ansible Script Runner](https://github.com/VlxtIykg/AnsibleScriptRunner)
+OS Script! [https://github.com/VlxtIykg/OS-checker]()
+_**Note:** Going to make a second one or update that one for home lab!_ 
+
 
 ## 📚 Learning
 
@@ -59,7 +66,7 @@ _**Note:** The latest stable version of TensorFlow that supports GPU is 2.10. Yo
 
 ## 🏆 I have experience in
 
-- Languages: Python, JavaScript, Java, HTML, CSS, PHP, SQL, Rust, and more!
+- Languages: Python, JavaScript, Java, HTML, CSS, Rust, and more!
 - Website development using HTML, CSS, JavaScript, and PHP
 - Discord bot development using  Eris, Discord.js, Discord.py, and pycord
 - Hosting applications, scripts, websites, movies, and personal services
@@ -142,7 +149,8 @@ Check out my websites:
 - [![Portainer](https://img.shields.io/badge/Portainer-13A0F2?style=for-the-badge&logo=Portainer&logoColor=white)](https://porty.kami.wtf/)
 - [![My Minecraft Mod](https://r2.e-z.host/61f4d483-6b13-4eb2-bc2c-e2c07b7484f5/5h8o4m7m.png)](https://github.com/mastermindgolem/Skyblock-Utils)
 
-I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website and dashboard. 
+~~I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website and dashboard.~~
+I primarily use kami.wtf and kami.boo when kami.boo gets up!
 > **Note:** This domain is registered with Freenom however recently I have issues with it. It is now kami.wtf and/or kami.boo
 
 <!-- ![Traffic](images/traffic.png) -->
@@ -173,8 +181,10 @@ I own over 25 DNS, including kami-x.tk, which I use to host my portfolio website
 - Many more!
 
 ### 💻 OS
-A few of the operating systems I have experience with include:
+I use multiple Linux distros and Windows too!
 
+<!--
+A few of the operating systems I have experience with include:
 [![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://www.alpinelinux.org/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -196,6 +206,7 @@ A few of the operating systems I have experience with include:
 	</div></li>
 </ul>
 </details>
+-->
 
 ## 🎉 Fun facts
 
