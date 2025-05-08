@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > Maybe if I loved harder, I would understand the meaning of it <  <
+<pre><code>> > It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. < <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Me
+By Julius Caesar
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
