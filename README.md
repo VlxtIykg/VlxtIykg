@@ -16,9 +16,9 @@ By R.M. Drake
 
 ### ✨ Hey, I'm Kami! 
 Nice to meet you! 👋<br>
-I'm taken by someone special [💞](我爱你) and I'm amazed by technology. 
+I'm taken by someone special [💞](我爱你) and I'm amazed by technology.
 
-我也喜欢可爱的动物？
+我也喜欢可爱的动物！
 
 <h2>About Me</h2>
 
@@ -28,7 +28,7 @@ I'm taken by someone special [💞](我爱你) and I'm amazed by technology.
 
 📩 Email [me@kami.wtf](mailto:me@kami.wtf)
 
-🕹️ I play tetris, minecraft, and town of salem 2 ever so often
+🕹️ I play btd 6 & town of salem 2 ever so often. Looking to get into persona!
 
 ### Github activity
 
@@ -53,10 +53,10 @@ Thank you in advance for your support and contributions!
 
 ## ❄️ Finished projects
 
-I made a custom [Logger](https://github.com/VlxtIykg/logger) for minecraft 1.8.9 modding.
-I made a Minecraft mod dedicated to Skyblock on Hypixel [Skyblock Utils](https://github.com/mastermindgolem/Skyblock-Utils)
-Made an ansible script for a company, [Ansible Script Runner](https://github.com/VlxtIykg/AnsibleScriptRunner)
-OS Script! [https://github.com/VlxtIykg/OS-checker]()
+I made a custom [Logger](https://github.com/VlxtIykg/logger) for minecraft 1.8.9 modding.  
+I made a Minecraft mod dedicated to Skyblock on Hypixel [Skyblock Utils](https://github.com/mastermindgolem/Skyblock-Utils)  
+Made an ansible script for a company, [Ansible Script Runner](https://github.com/VlxtIykg/AnsibleScriptRunner)  
+OS Script! [https://github.com/VlxtIykg/OS-checker]()  
 _**Note:** Going to make a second one or update that one for home lab!_ 
 
 
