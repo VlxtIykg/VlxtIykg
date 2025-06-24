@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > All alone! Whether you like it or not, alone is something you'll be quite a lot! <  <
+<pre><code>> > Life is the flower for which love is the honey <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Dr. Seuss
+By Victor Hugo 
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
