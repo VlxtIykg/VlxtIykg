@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > Love is when the other person's happiness is more important than your own. <  <
+<pre><code>> > Ours not to reason why, ours but to do and die <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By H. Jackson Brown, Jr
+By Alfred Lord Tennyson
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
