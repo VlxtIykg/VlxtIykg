@@ -38,7 +38,7 @@ I'm taken by someone special [💞](我爱你) and I'm amazed by technology.
 
 ## 🌱 Projects
 
-- Developing an image classifier to discern between matching and solo pictures! 😨
+- Setting up NixOS to be easily installable across any x86_64 devices
 - Revamping all my old deprecated repositories!
 
 > _Psst_<br>
@@ -62,7 +62,9 @@ _**Note:** Going to make a second one or update that one for home lab!_
 
 ## 📚 Learning
 
-- 🤖 AI, ML, DL, NLP, CV, and more!
+- Nix
+- Networking
+- ~~🤖 AI, ML, DL, NLP, CV, and more!~~
 _**Note:** The latest stable version of TensorFlow that supports GPU is 2.10. You can find more information in the [official documentation](https://www.tensorflow.org/install/pip)._ 
 
 ## 🏆 I have experience in
@@ -143,10 +145,10 @@ Check out my websites:
 
 > **Note:** If empty click on user select, bottom left, then select user.<br>
 
--	[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kami.wtf) (Work in progress)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kami.wtf) (Work in progress)
 - [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.kami.wtf/)
-- [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)](https://grafana.kami.wtf/)
-- [![Guacamole](https://img.shields.io/badge/Guacamole-00000?style=for-the-badge&logo=Apache%20Guacamole&logoColor=white)](https://guacamole.kami.wtf/)
+- [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)](https://grafana.kami.wtf/d/Dp7Cd57Zza/proxmox-via-prometheus?orgId=1&from=now-6h&to=now&timezone=browser&var-instance=192.168.1.159:9131&refresh=10s)
+- ~~[![Guacamole](https://img.shields.io/badge/Guacamole-00000?style=for-the-badge&logo=Apache%20Guacamole&logoColor=white)](https://guacamole.kami.wtf/)~~
 - [![Portainer](https://img.shields.io/badge/Portainer-13A0F2?style=for-the-badge&logo=Portainer&logoColor=white)](https://porty.kami.wtf/)
 - [![My Minecraft Mod](https://r2.e-z.host/61f4d483-6b13-4eb2-bc2c-e2c07b7484f5/5h8o4m7m.png)](https://github.com/mastermindgolem/Skyblock-Utils)
 
