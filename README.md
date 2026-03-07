@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > Maybe if I loved harder, I would understand the meaning of it <  <
+<pre><code>> > All alone! Whether you like it or not, alone is something you'll be quite a lot! <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Me
+By Dr. Seuss
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
