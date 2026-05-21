@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > It is better to die on your feet than to live on your knees. <  <
+<pre><code>> > It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. < <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Emiliano Zapato
+By Julius Caesar
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
