@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim. <  <
+<pre><code>> > I love you, not only for what you are, but for what I am when I am with you. <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By R.M. Drake
+By Roy Croft
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
