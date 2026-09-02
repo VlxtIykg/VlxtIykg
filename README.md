@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. < <
+<pre><code>> > We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim. <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Julius Caesar
+By R.M. Drake
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
