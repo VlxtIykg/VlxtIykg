@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > It is easier to find men who will volunteer to die, than to find those who are willing to endure pain and patience. < <
+<pre><code>> > I love you, not only for what you are, but for what I am when I am with you. <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Julius Caesar
+By Roy Croft
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
