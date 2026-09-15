@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > If you prick us do we not bleed? If you tickle us do we not laugh? If you poison us do we not die? And if you wrong us shall we not revenge? <  <
+<pre><code>> > Life is the flower for which love is the honey <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By William Shakespeare
+By Victor Hugo 
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
