@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > Ours not to reason why, ours but to do and die <  <
+<pre><code>> > It is better to die on your feet than to live on your knees. <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Alfred Lord Tennyson
+By Emiliano Zapato
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
