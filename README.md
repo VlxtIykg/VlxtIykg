@@ -5,9 +5,9 @@
 <h2>Quote of the day</h2>
 <hr>
 
-<pre><code>> > Ours not to reason why, ours but to do and die <  <
+<pre><code>> > All alone! Whether you like it or not, alone is something you'll be quite a lot! <  <
 ﹌﹌﹌﹌⎯⎯ ୨ ୧ ⎯⎯/﹌﹌﹌﹌
-By Alfred Lord Tennyson
+By Dr. Seuss
 ﹀﹀﹀﹀♡.﹀﹀.♡﹀﹀﹀﹀
 </code></pre>
 <hr>
